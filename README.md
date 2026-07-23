@@ -48,7 +48,7 @@ Export Report
 
 ## Project Screenshot
 
-*(Insert a screenshot of your application here if desired.)*
+![Clinical Intelligence Dashboard](screenshots/dashboard.png)
 
 ---
 

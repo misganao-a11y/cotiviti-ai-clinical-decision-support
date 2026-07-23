@@ -57,7 +57,7 @@ Export Report
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/misganao-a11y/cotiviti-ai-clinical-decision-support.git
 cd cotiviti-ai-clinical-decision-support
 ```
 
